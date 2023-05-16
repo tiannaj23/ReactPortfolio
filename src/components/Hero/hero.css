@@ -1,0 +1,12 @@
+img {
+    width: 100%
+}
+
+.Image-Wrapper {
+    max-width: 20rem
+}
+
+.Hero-Container {
+    height: 90vh;
+    background-color: #FCD0A1
+}

@@ -1,0 +1,12 @@
+.nav-bar {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    background-color: beige;
+    height: 5vh;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+}
