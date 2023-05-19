@@ -1,5 +1,5 @@
 import React from 'react'
-import ProfileImage from '../../Images/Profile.jpg'
+import ProfileImage from '../../Images/heroImage.jpg'
 import "./hero.css"
 
 export default function Hero() {
