@@ -1,5 +1,4 @@
 import React from 'react'
-// import {Link} from 'react-router-dom'
 import resume from '../../Images/ResumeImage.jpeg'
 import './resume.css'
 
