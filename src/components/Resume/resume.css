@@ -1,5 +1,9 @@
 .resume-container {
-    height: 80vh;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 img {
@@ -8,4 +12,8 @@ img {
 
 .image-wrapper {
     width: 30rem;
+}
+
+.link:hover {
+cursor: pointer;
 }

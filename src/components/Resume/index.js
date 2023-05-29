@@ -9,7 +9,7 @@ export default function Resume() {
       <div className='image-wrapper'>
         <img src={resume}/>
        </div>      
-  <a href="https://drive.google.com/file/d/1tfJ41xzGTHhoTsI1fzYU-CdowinhLkWf/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
+  <a className='link'href="https://drive.google.com/file/d/1tfJ41xzGTHhoTsI1fzYU-CdowinhLkWf/view?usp=sharing" target="_blank" rel="noopener noreferrer">Click to Download Resume</a>
 
     </div>
   )
