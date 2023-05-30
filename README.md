@@ -4,6 +4,7 @@
 The React Portfolio Website is intended to showcase a potential employee's React portfolio of work samples, so that you can determine whether they're a good candidate for an open position.
 
 - https://github.com/tiannaj23/ReactPortfolio
+- https://tiannaj23.github.io/ReactPortfolio/
 
 
 ## Table of Contents
