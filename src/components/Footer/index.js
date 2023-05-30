@@ -10,10 +10,10 @@ export default function Footer() {
         Socials:
       </h4>
 
-<a href="https://github.com/your-github-url" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/tiannaj23" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faGithub} />
         </a>
-        <a href="https://www.linkedin.com/in/your-linkedin-url" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/tianna-johnson-792b2715b/" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faLinkedin} />
         </a>
     </div>
