@@ -23,9 +23,9 @@ export default function Projects() {
     },
     {
       src: image3,
-      description: 'Ideation',
-      siteUrl: 'https://sheltered-badlands-19260.herokuapp.com/',
-      repoUrl: 'https://github.com/tiannaj23/Project2',
+      description: 'Zoosta',
+      siteUrl: 'https://vast-hamlet-07403.herokuapp.com/',
+      repoUrl: 'https://github.com/Daczuniga/zoosta',
     },
     {
       src: image4,
